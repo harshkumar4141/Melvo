@@ -1,0 +1,146 @@
+[
+    {
+        "id": 11,
+        "name": "Ae Dil Hai Mushkil",
+        "artist": "Arijit Singh",
+        "cover": "https://res.cloudinary.com/dpmiorwrh/image/upload/v1774810520/ae_dil_y0owws.jpg",
+        "audio": "https://res.cloudinary.com/dpmiorwrh/video/upload/v1774810529/ae-dil-hai-mushkil_g8e8go.mp3",
+        "duration": "4:27"  
+    },
+    {
+        "id": 12,
+        "name": "Agar Tum Saath Ho ",
+        "artist": "Arijit Singh",
+        "cover": "https://res.cloudinary.com/dpmiorwrh/image/upload/v1774810520/Agar-Tum-Saath-Ho_wekzch.jpg",
+        "audio": "https://res.cloudinary.com/dpmiorwrh/video/upload/v1774810536/agar-tum-sath-ho_jav6mx.mp3",
+        "duration": "5:41"  
+    },
+    {
+        "id": 13,
+        "name": "Baatein Ye Kabhi Na",
+        "artist": "Arijit Singh",
+        "cover": "https://res.cloudinary.com/dpmiorwrh/image/upload/v1774810522/Baatein-Ye-Kabhi-Na-Male_vh7liu.jpg",
+        "audio": "https://res.cloudinary.com/dpmiorwrh/video/upload/v1774810533/baatein-ye-kabhi-na_tdcwdr.mp3",
+        "duration": "4:49"
+    },
+    {
+        "id": 21,
+        "name": "Be Intehaan",
+        "artist": "Atif Aslam",
+        "cover": "https://res.cloudinary.com/dpmiorwrh/image/upload/v1774810790/Be-Intehaan_qsaksr.jpg",
+        "audio": "https://res.cloudinary.com/dpmiorwrh/video/upload/v1774810799/Be-Intehaan_ap5tzc.mp3",
+        "duration": "4:50"
+    },
+    {
+        "id": 22,
+        "name": "Jeena Jeena",
+        "artist": "Atif Aslam",
+        "cover": "https://res.cloudinary.com/dpmiorwrh/image/upload/v1774810792/Jeena-Jeena_ovqo73.jpg",
+        "audio": "https://res.cloudinary.com/dpmiorwrh/video/upload/v1774810796/Jeena-Jeena_csboin.mp3",
+        "duration": "3:38"
+    },
+    {
+        "id": 23,
+        "name": "Rangreza",
+        "artist": "Atif Aslam",
+        "cover": "https://res.cloudinary.com/dpmiorwrh/image/upload/v1774810793/Rangreza-_cd03mf.jpg",
+        "audio": "https://res.cloudinary.com/dpmiorwrh/video/upload/v1774810796/Rangreza_j1xexp.mp3",
+        "duration": "3:02"
+    },
+    {
+        "id": 31,
+        "name": "Besabriyaan",
+        "artist": "Armaan Malik",
+        "cover": "https://res.cloudinary.com/dpmiorwrh/image/upload/v1774810740/Besabriyaan-M.S.-Dhoni_u6sdmt.jpg",
+        "audio": "https://res.cloudinary.com/dpmiorwrh/video/upload/v1774810741/Besabriyaan_wah8rl.mp3",
+        "duration": "4:15"
+    },
+    {
+        "id": 32,
+        "name": "Bol do na zara",
+        "artist": "Armaan Malik",
+        "cover": "https://res.cloudinary.com/dpmiorwrh/image/upload/v1774810740/Bol-Do-Na-Zara_c8ekoj.jpg",
+        "audio": "https://res.cloudinary.com/dpmiorwrh/video/upload/v1774810745/Bol-Do-Na-Zara_n6psi6.mp3",
+        "duration": "4:52"
+    },
+    {
+        "id": 33,
+        "name": "Sab Tera",
+        "artist": "Armaan Malik",
+        "cover": "https://res.cloudinary.com/dpmiorwrh/image/upload/v1774810741/Sab-Tera-_qwt6ds.jpg",
+        "audio": "https://res.cloudinary.com/dpmiorwrh/video/upload/v1774810743/Sab-Tera-_ww4yll.mp3",
+        "duration": "3:38"
+    },
+    {
+        "id": 41,
+        "name": "Bewafa Tera Masoom Chehra",
+        "artist": "Jubin Nautiyal",
+        "cover": "https://res.cloudinary.com/dpmiorwrh/image/upload/v1774810847/Bewafa-Tera-Masoom-Chehra_b41srs.jpg",
+        "audio": "https://res.cloudinary.com/dpmiorwrh/video/upload/v1774810850/Bewafa-Tera-Masoom-Chehra_vle4zk.mp3",
+        "duration": "4:02"
+    },
+    {
+        "id": 42,
+        "name": "Meri Aashiqui",
+        "artist": "Jubin Nautiyal",
+        "cover": "https://res.cloudinary.com/dpmiorwrh/image/upload/v1774810849/Meri-Aashiqui-Jubin_s49g0u.jpg",
+        "audio": "https://res.cloudinary.com/dpmiorwrh/video/upload/v1774810850/Meri-Aashiqui-Jubin_h7np8t.mp3",
+        "duration": "4:40"
+    },
+    {
+        "id": 43,
+        "name": "Raataan Lambiyan",
+        "artist": "Jubin Nautiyal",
+        "cover": "https://res.cloudinary.com/dpmiorwrh/image/upload/v1774810850/raataan-lambiyan_hmpys8.jpg",
+        "audio": "https://res.cloudinary.com/dpmiorwrh/video/upload/v1774810853/raataan-lambiyan_yorfba.mp3",
+        "duration": "3:50"
+    },
+    {
+        "id": 51,
+        "name": "Blue Eyes",
+        "artist": "Honey Singh",
+        "cover": "https://res.cloudinary.com/dpmiorwrh/image/upload/v1774810893/Blue-Eyes-_fz2trb.jpg",
+        "audio": "https://res.cloudinary.com/dpmiorwrh/video/upload/v1774810894/Blue-Eyes_xuv3si.mp3",
+        "duration": "3:41"
+    },
+    {
+        "id": 52,
+        "name": "Kalaastar",
+        "artist": "Honey Singh",
+        "cover": "https://res.cloudinary.com/dpmiorwrh/image/upload/v1774810895/kalaastar_fgssr1.jpg",
+        "audio": "https://res.cloudinary.com/dpmiorwrh/video/upload/v1774810896/Kalaastar_hhmkcx.mp3",
+        "duration": "3:27"
+    },
+    {
+        "id": 53,
+        "name": "Vigdiyan Heeran",
+        "artist": "Honey Singh",
+        "cover": "https://res.cloudinary.com/dpmiorwrh/image/upload/v1774810896/Vigdiyan_heeran_tf0sa7.jpg",
+        "audio": "https://res.cloudinary.com/dpmiorwrh/video/upload/v1774810898/Vigdiyan_Heeran_txe4ah.mp3",
+        "duration": "3:34"
+    },
+    {
+        "id": 61,
+        "name": "Barishon mein",
+        "artist": "Darshan Raval",
+        "cover": "https://res.cloudinary.com/dpmiorwrh/image/upload/v1774810949/Baarishon-Mein_wwkw5v.jpg",
+        "audio": "https://res.cloudinary.com/dpmiorwrh/video/upload/v1774810951/Baarishon-Mein_vpdik9.mp3",
+        "duration": "3:44"
+    },
+    {
+        "id": 62,
+        "name": "Is Qadar",
+        "artist": "Darshan Raval",
+        "cover": "https://res.cloudinary.com/dpmiorwrh/image/upload/v1774810951/Is-Qadar_bwcrzc.jpg",
+        "audio": "https://res.cloudinary.com/dpmiorwrh/video/upload/v1774810953/Is-Qadar_sy9kn0.mp3",
+        "duration": "3:46"
+    },
+    {
+        "id": 63,
+        "name": "Teri Ankhon Main",
+        "artist": "Darshan Raval",
+        "cover": "https://res.cloudinary.com/dpmiorwrh/image/upload/v1774810953/teri_annkhon_main_qu01jd.jpg",
+        "audio": "https://res.cloudinary.com/dpmiorwrh/video/upload/v1774810956/Teri-Aankhon-Mein_uxlzvo.mp3",
+        "duration": "4:39"
+    }
+]

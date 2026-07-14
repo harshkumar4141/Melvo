@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Player</title>
+    <link rel="stylesheet" href="player.css" />
+  </head>
+  <body background-color="#313131">
+    <div class="divider">
+      <div class="player">
+        <img class="song-img" src="" alt="" />
+        <audio class="song-audio" src=""></audio>
+        <div class="controls">
+          <div class="range">
+            <div class="running-time">0:00</div>
+            <input class="slider" type="range" />
+            <div class="total-time">0:00</div>
+          </div>
+          <div class="play">
+            <button id="prev" class="icon-btn">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="white">
+                <path d="M6 6h2v12H6zm3.5 6L18 6v12z" />
+              </svg>
+            </button>
+            <button id="play" class="icon-btn" type="button">
+            </button>
+            <button id="next" class="icon-btn">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="white">
+                <path d="M16 6h2v12h-2zm-1.5 6L6 6v12z" />
+              </svg>
+            </button>
+            <button id="loop" class="icon-btn">
+              <svg width="24" height="24" viewBox="0 0 24 24">
+                <path d="M17 1l4 4-4 4" />
+                <path d="M3 11V9a4 4 0 0 1 4-4h14" />
+                <path d="M7 23l-4-4 4-4" />
+                <path d="M21 13v2a4 4 0 0 1-4 4H3" />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="all-songs">
+        <div class="header">
+          <h2 class="All">All songs</h2>
+        </div>
+        <div class="playlist"></div>
+      </div>
+    </div>
+  </body>
+  <script src="player.js"></script>
+</html>
